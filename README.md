@@ -1,2 +1,2 @@
 # calculatorCLI
-Create a basic calculator cli.
+Basic calculator cli.
